@@ -1,0 +1,3 @@
+
+
+ Hello, my name is Utkarsh Pathak. I’m currently pursuing a B.Tech in Computer Science from GLA University and am in my 2nd year. I’m passionate about technology and enjoy exploring new areas such as Java programming, Flutter development, Spring Boot, and DevOps. I have a strong interest in building real-world projects and continuously improving my problem-solving skills. I’m also learning about Machine Learning to understand how data can be used to make smart decisions. I believe in consistent learning and teamwork, and I’m always excited to take on new challenges and grow as a developer and engineer
